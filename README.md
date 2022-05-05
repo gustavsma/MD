@@ -1,5 +1,5 @@
 # MD
 
-1. SSD (Uses code from https://github.com/nicknochnack/TFODCourse)
+1. SSD (Daļa koda ņemta no https://github.com/nicknochnack/TFODCourse)
 2. DETReg
 3. Unbiased Teacher
